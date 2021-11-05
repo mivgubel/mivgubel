@@ -8,12 +8,13 @@
 DATABASE MANAGEMENT:
 
 MYSLQ - Intermediate to Upper Intermediate Knowledge.
+
 MongoDB - Intermediate Knowledge.
 
 PROGRAMMING LANGUAGES:
  
 
-- Solidity, web3js: level - Intermediate.
+- Solidity, web3js: level - Basic.
 - NodeJs, Express, Typescript, Firebase: level - Intermediate.
 - HTML, Javascript, CSS3, PHP: level - Intermediate.
 - Java: level - Intermediate.
@@ -42,7 +43,7 @@ MongoDB: conocimiento intermedio.
 LENGUAJES DE PROGRAMACIÓN:
  
 
-- Solidity, web3js - Intermedio.
+- Solidity, web3js - Basico.
 - NodeJs, Express, Typecript, Firebase level - Intermedio.
 - HTML, Javascript, CSS3, PHP - Intermedio.
 - Java - Intermedio.
