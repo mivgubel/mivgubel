@@ -14,9 +14,10 @@ MongoDB - Intermediate Knowledge.
 PROGRAMMING LANGUAGES:
  
 
-- Solidity, web3js: level - Basic.
+- Solidity, web3js: level - intermediate.
 - NodeJs, Express, Typescript, Firebase: level - Intermediate.
 - HTML, Javascript, CSS3, PHP: level - Intermediate.
+- ReactJs: level - intermediate.
 - Java: level - Intermediate.
 - Android programming: level - Intermediate.
 - C++: level - Intermediate.
@@ -33,7 +34,7 @@ Greetings!
 - 👀 Me apasiona el desarrollo de software, incluso lo hago por diversión:D, me encanta aprender cosas nuevas y suelo enseñarme yo mismo.
 - 🌱 Actualmente estoy aprendiendo solidity porque me gusta y quiero trabajar en la industria del blockchain.
 - 💞️ Estoy buscando colaborar en el desarrollo de la industria blockchain e impactar al mundo con esta tecnología.
-- 📫 Cómo comunicarse conmigo: Pueden enviarme un correo electrónico a angelcap1990@gmail.com
+- 📫 Cómo comunicarse conmigo: Pueden enviarme un correo electrónico a angelcap1990@gmail.com o sigueme en twitter: https://twitter.com/Mike_Bello90
 
 GESTIÓN DE BASE DE DATOS:
 
@@ -43,9 +44,10 @@ MongoDB: conocimiento intermedio.
 LENGUAJES DE PROGRAMACIÓN:
  
 
-- Solidity, web3js - Basico.
+- Solidity, web3js - Nivel Intermedio.
 - NodeJs, Express, Typecript, Firebase level - Intermedio.
 - HTML, Javascript, CSS3, PHP - Intermedio.
+- ReactJs: Nivel - intermedio.
 - Java - Intermedio.
 - Programación Android - Intermedio.
 - C ++ - Intermedio.
