@@ -3,7 +3,7 @@
 - 👀 I’m passionate about software development, I even do it for fun :D, I love to learn new things and I usually teach myself.
 - 🌱 I’m currently learning solidity cause I like it and I want to work in the blockchain industry. 
 - 💞️ I’m looking to collaborate in the development of the blockchain industry and impact the world with this technology.
-- 📫 How to reach me You can send me an email to angelcap1990@gmail.com
+- 📫 How to reach me You can send me an email to angelcap1990@gmail.com or follow me https://twitter.com/Mike_Bello90
 
 DATABASE MANAGEMENT:
 
