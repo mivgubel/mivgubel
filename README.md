@@ -16,7 +16,7 @@ PROGRAMMING LANGUAGES:
 
 - Solidity, web3js: level - intermediate.
 - NodeJs, Express, Typescript, Firebase: level - Intermediate.
-- HTML, Javascript, CSS3, PHP: level - Intermediate.
+- HTML, Javascript, CSS3: level - advanced.
 - ReactJs: level - intermediate.
 - Java: level - Intermediate.
 - Android programming: level - Intermediate.
