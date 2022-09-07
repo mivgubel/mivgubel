@@ -23,7 +23,7 @@ PROGRAMMING LANGUAGES:
 - C++: level - Intermediate.
 - Python: level - Basic.
 
-I'm currently working as a Blockchain Develope at Panoram Finance.
+I'm currently working as a Blockchain Developer at Panoram Finance.
 
 Greetings!
 
