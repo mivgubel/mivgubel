@@ -14,14 +14,13 @@ MongoDB - Intermediate Knowledge.
 PROGRAMMING LANGUAGES:
  
 
-- Solidity, web3js: level - intermediate.
-- NodeJs, Express, Typescript, Firebase: level - Intermediate.
-- HTML, Javascript, CSS3: level - advanced.
-- ReactJs: level - intermediate.
-- Java: level - Intermediate.
-- Android programming: level - Intermediate.
-- C++: level - Intermediate.
-- Python: level - Basic.
+- Solidity, web3js, Etherjs.
+- NodeJs, Express, Typescript, Firebase.
+- HTML, Javascript, CSS3.
+- ReactJs.
+- Java.
+- Android programming.
+- C++.
 
 I'm currently working as a Blockchain Developer at Panoram Finance.
 
@@ -44,14 +43,13 @@ MongoDB: conocimiento intermedio.
 LENGUAJES DE PROGRAMACIÓN:
  
 
-- Solidity, web3js - Nivel Intermedio.
-- NodeJs, Express, Typecript, Firebase level - Intermedio.
-- HTML, Javascript, CSS3, PHP - Intermedio.
-- ReactJs: Nivel - intermedio.
-- Java - Intermedio.
-- Programación Android - Intermedio.
-- C ++ - Intermedio.
-- Python - Básico.
+- Solidity, web3js, EtherJs.
+- NodeJs, Express, Typecript, Firebase.
+- HTML, Javascript, CSS3, PHP.
+- ReactJs: Nivel.
+- Java.
+- Programación Android.
+- C ++.
 
 Actualmente trabajo como Blockchain Developer en Panoram Finance.
 
