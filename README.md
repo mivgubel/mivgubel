@@ -13,7 +13,6 @@ MongoDB - Intermediate Knowledge.
 
 PROGRAMMING LANGUAGES:
  
-
 - Solidity, web3js, Etherjs.
 - NodeJs, Express, Typescript, Firebase.
 - HTML, Javascript, CSS3.
@@ -21,6 +20,15 @@ PROGRAMMING LANGUAGES:
 - Java.
 - Android programming.
 - C++.
+
+- Smart Contracts Gas Optimizacion.
+- Smart Contracts Security Practices.
+- Smart Contracts Patterns.
+- Test Driven Development.
+- Hardhat.
+- Foundry.
+- Agile.
+
 
 I'm currently working as a Blockchain Developer at Panoram Finance.
 
@@ -50,6 +58,14 @@ LENGUAJES DE PROGRAMACIÓN:
 - Java.
 - Programación Android.
 - C ++.
+
+- Smart Contracts Gas Optimizacion.
+- Smart Contracts Security Practices.
+- Smart Contracts Patterns.
+- Test Driven Development.
+- Hardhat.
+- Foundry.
+- Agile.
 
 Actualmente trabajo como Blockchain Developer en Panoram Finance.
 
