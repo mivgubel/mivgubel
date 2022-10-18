@@ -29,6 +29,7 @@ PROGRAMMING LANGUAGES:
 - Foundry.
 - Agile.
 
+- Enconde Club Solidity Expert.
 
 I'm currently working as a Blockchain Developer at Panoram Finance.
 
@@ -66,6 +67,8 @@ LENGUAJES DE PROGRAMACIÓN:
 - Hardhat.
 - Foundry.
 - Agile.
+
+- Enconde Club Solidity Expert.
 
 Actualmente trabajo como Blockchain Developer en Panoram Finance.
 
