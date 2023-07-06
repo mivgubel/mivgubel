@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Miguel Angel Valdez Bello, but everybody calls me Mike, you can do it if you want.
 
 - 👀 I’m passionate about software development, I even do it for fun :D, I love to learn new things and I usually teach myself.
+- I have over 5 years of software Development expertise.
 - 🌱 I’m a solidity Developer and a Smart contracts Security Auditor. 
 - 💞️ I’m looking to collaborate in the development of the blockchain industry and impact the world with this technology.
-- 📫 How to reach me You can send me an email to angelcap1990@gmail.com or follow me https://twitter.com/Mike_Bello90
+- 📫 How to reach me You can send me an email at angelcap1990@gmail.com or follow me https://twitter.com/Mike_Bello90
 
 DATABASE MANAGEMENT:
 
@@ -14,6 +15,7 @@ MongoDB - Intermediate Knowledge.
 PROGRAMMING LANGUAGES:
  
 - Solidity, web3js, Etherjs.
+- Learning Cairo, Starknet.
 - NodeJs, Express, Typescript, Firebase.
 - HTML, Javascript, CSS3.
 - ReactJs.
@@ -22,7 +24,7 @@ PROGRAMMING LANGUAGES:
 - C++.
 
 - Smart Contracts Gas Optimizacion.
-- Smart Contracts Security Practices.
+- Smart Contracts Security.
 - Smart Contracts Patterns.
 - Test Driven Development.
 - Hardhat.
@@ -52,7 +54,7 @@ MongoDB: conocimiento intermedio.
 LENGUAJES DE PROGRAMACIÓN:
  
 
-- Solidity, web3js, EtherJs.
+- Solidity, Cairo, web3js, EtherJs.
 - NodeJs, Express, Typecript, Firebase.
 - HTML, Javascript, CSS3, PHP.
 - ReactJs: Nivel.
